@@ -20,8 +20,8 @@ export const Navbar = () => {
           <Image
             src="/meilayo.png"
             alt="Logo"
-            width={70}
-            height={70}
+            width={50}
+            height={50}
             draggable={false}
             className="cursor-pointer"
           />
